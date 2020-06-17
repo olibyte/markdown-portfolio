@@ -1,4 +1,4 @@
 Replace this with a list of your favorite things.
-* Unordered list item 1
-* Unordered list item 2
-* Unordered list item 3
+1. Favourite
+2. Second favourite
+3. Third favourite
